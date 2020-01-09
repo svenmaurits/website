@@ -2122,26 +2122,23 @@ section.lazy-placeholder:after {
 .cid-rFxNZja1Zu .mbr-text {
   color: #767676;
 }
-.cid-rFJLuyl5v1 {
-  background: #efefef;
-  padding-top: 45px;
-  padding-bottom: 0px;
+.cid-rK5ZYOoqcc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-rFJLuyl5v1 .image-block {
-  margin: auto;
-}
-.cid-rFJLuyl5v1 figcaption {
-  position: relative;
-}
-.cid-rFJLuyl5v1 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rFJLuyl5v1 .image-block {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-rK5ZYOoqcc .mbr-figure {
+    padding-left: 4rem;
   }
+}
+@media (max-width: 992px) {
+  .cid-rK5ZYOoqcc .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rK5ZYOoqcc .mbr-text {
+  color: #767676;
 }
 .cid-rFxTGdGvt7 {
   padding-top: 15px;
@@ -3994,53 +3991,6 @@ section.lazy-placeholder:after {
 .cid-rFzmgmZ5BV .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-rFzmim7p9M {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/thumbnail-sven-maurits-1920x1080.jpeg");
-}
-.cid-rFzmim7p9M .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rFzmim7p9M .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rFzmim7p9M .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rFzmim7p9M .team-item .item-image img {
-  width: 100%;
-}
-.cid-rFzmim7p9M .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rFzmim7p9M .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rFzmim7p9M .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rFzmim7p9M .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rFzmim7p9M .team-item .item-caption {
-  background: #efefef;
-}
-.cid-rFzmim7p9M H2 {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-rFzmim7p9M .item-name {
-  color: #b1a374;
-}
 .cid-rFzmimGeGP .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -4439,6 +4389,11 @@ section.lazy-placeholder:after {
 .cid-rFzmimGeGP .nav-link:hover,
 .cid-rFzmimGeGP .dropdown-item:hover {
   color: #b1a374 !important;
+}
+.cid-rN7ytXRDy5 {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #073b4c;
 }
 .cid-rFzmin70vW {
   padding-top: 120px;
