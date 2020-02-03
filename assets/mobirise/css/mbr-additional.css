@@ -2122,8 +2122,29 @@ section.lazy-placeholder:after {
 .cid-rFxNZja1Zu .mbr-text {
   color: #767676;
 }
+.cid-rPs71WEj6K {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rPs71WEj6K .image-block {
+  margin: auto;
+}
+.cid-rPs71WEj6K figcaption {
+  position: relative;
+}
+.cid-rPs71WEj6K figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rPs71WEj6K .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rK5ZYOoqcc {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
