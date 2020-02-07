@@ -2109,10 +2109,10 @@ section.lazy-placeholder:after {
 .cid-rFxNfc1jiS .dropdown-item:hover {
   color: #b1a374 !important;
 }
-.cid-rFxOhjPiXn {
+.cid-rPOIP6Bu0Q {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/thumbnail-sven-maurits-1-1920x1080.jpeg");
+  background-image: url("../../../assets/images/ball.jpp-1170x392.jpg");
 }
 .cid-rFxNZja1Zu {
   padding-top: 60px;
@@ -2253,6 +2253,27 @@ section.lazy-placeholder:after {
 }
 .cid-rPL04vLRyD textarea.form-control {
   min-height: 188px;
+}
+.cid-rPOF3QVZHj {
+  background: #232323;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rPOF3QVZHj .image-block {
+  margin: auto;
+}
+.cid-rPOF3QVZHj figcaption {
+  position: relative;
+}
+.cid-rPOF3QVZHj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rPOF3QVZHj .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rPLboTLpwF {
   padding-top: 90px;
