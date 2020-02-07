@@ -2254,29 +2254,8 @@ section.lazy-placeholder:after {
 .cid-rPL04vLRyD textarea.form-control {
   min-height: 188px;
 }
-.cid-rPOF3QVZHj {
-  background: #232323;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rPOF3QVZHj .image-block {
-  margin: auto;
-}
-.cid-rPOF3QVZHj figcaption {
-  position: relative;
-}
-.cid-rPOF3QVZHj figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rPOF3QVZHj .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rPLboTLpwF {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
