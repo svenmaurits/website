@@ -2847,6 +2847,7 @@ section.lazy-placeholder:after {
 }
 .cid-rNuU0ICHKC .mbr-text {
   color: #767676;
+  text-align: right;
 }
 .cid-rFxNfcjxt9 {
   padding-top: 120px;
@@ -3480,7 +3481,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFznVGDtsu .mbr-section-subtitle {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 }
 .cid-rFznVGDtsu .timeline-text-content {
@@ -3596,7 +3597,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rFznVGDtsu .mbr-section-title {
-  color: #232323;
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rFzmbLknWq .navbar {
   padding: .5rem 0;
@@ -4481,6 +4483,7 @@ section.lazy-placeholder:after {
 }
 .cid-rHPEZ9a7mJ .mbr-section-subtitle {
   color: #efefef;
+  text-align: left;
 }
 .cid-rHPEZ9a7mJ .media-row {
   display: -webkit-flex;
