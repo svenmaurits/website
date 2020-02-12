@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sven Maurits Website",
-    "currentPage": "sponsors.html",
+    "currentPage": "schedule.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 134,
+    "uniqCompNum": 137,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-sven-square-128x128.png",
